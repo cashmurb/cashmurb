@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi hi 👋
 
 I'm [Cash](https://cashmurb.github.io/murbydoo/home), an AI researcher and artist. 
 
