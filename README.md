@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**cashmurb/cashmurb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Cash](https://cashmurb.github.io/murbydoo/home), an AI researcher and artist. 
 
-Here are some ideas to get you started:
+I build systems that teach computers to see and think. I spend an unreasonable amount of time thinking about how they might one day help us understand the brain. My background is in data science, computer vision, and medical imaging, with a growing focus on BCI and neurotech. In the long run, I see myself working in the BCI industry as a neurotech R&D researcher. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of tech, I take photos, make films, dance a little, and read books - usually with a cat somewhere nearby. 
+
+Right now, I am currently working on: 
+- A local home assistant with a personal AI agent
+- An anatomical brain-interface web app that displays my notes and learnings throughout the years
+
+Let's connect! 
+
+[LinkedIn](https://www.linkedin.com/in/myrrhcash/) · [Instagram](https://www.instagram.com/shewhofilms_/) · [Substack](https://casmurb.substack.com/)
