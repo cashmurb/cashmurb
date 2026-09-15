@@ -8,7 +8,7 @@ Outside of tech, I take photos, make films, dance a little, and read books - usu
 
 Right now, I am currently working on: 
 - A local home assistant with a personal AI agent
-- An anatomical brain-interface web app that displays my notes and learnings throughout the years
+- An anatomical brain-interface page that displays my learnings (kinda like a mini-obsidian) integrated inside my personal website
 
 Let's connect! 
 
