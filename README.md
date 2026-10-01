@@ -8,7 +8,6 @@ Outside of tech, I take photos, make films, dance a little, and read books - usu
 
 Right now, I am working on: 
 - A local home assistant with a personal AI agent
-- An anatomical brain-interface page that displays my learnings (kinda like a mini-obsidian) integrated inside my personal website
 
 Let's chat! 
 
